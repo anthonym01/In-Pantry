@@ -5,7 +5,7 @@ const app = express();
 //const http = require('http');
 const fs = require('fs');
 const path = require('path');
-const port = 10404;//port for the server
+const port = 8085;//port for the server
 
 const loggerite = {
     get_paths: function () {
